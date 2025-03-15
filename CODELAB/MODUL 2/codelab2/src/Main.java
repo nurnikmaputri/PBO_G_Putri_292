@@ -44,7 +44,7 @@ public class Main {
 
         // Menampilkan kembali informasi rekening1 setelah transaksi
         rekening1.tampilkanInfo();
-
+        // Menampilkan kembali informasi rekening2 setelah transaksi
         rekening2.tampilkanInfo();
     }
 }
